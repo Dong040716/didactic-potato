@@ -10,7 +10,7 @@ public class arrayDemo3 {
         //Boolean类型：默认为false
         //引用数据类型，默认值为null
 
-        //定义数组，存储50个学生姓名
+        //定义数组，存储50个学生的姓名
         String []stuName=new String[50];//默认值是Null
         stuName[0]="zhangsan";
         stuName[1]="lisi";

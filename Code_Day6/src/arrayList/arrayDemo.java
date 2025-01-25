@@ -10,7 +10,7 @@ public class arrayDemo {
         //存储三个学生姓名
         String []stuName={"Zhangsan","Lisi","Wangwu"};
         //存储四个学生的身高
-        double []stuHeight={1.72,1.88,1.71,1.82};
+        double []stuHeight={1.72,1.88,1.71,1.83};
 
         //数组的地址值和元素访问（利用循环遍历）
         for(int i=0;i<3;i++)

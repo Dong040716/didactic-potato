@@ -10,7 +10,7 @@ public class arrayDemo2 {
         for (int i = 0; i < array.length; i++) {
             System.out.println(array[i]);
         }
-        //idea 中自动补全遍历 数组名.fori
+        //idea 中能够自动补全遍历 数组名.fori
         for (int j = 0; j < array.length; j++) {
             System.out.println(array[j]);
         }
