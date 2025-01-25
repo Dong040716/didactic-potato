@@ -10,6 +10,7 @@ public class test1 {
             System.out.println(arrayList[i]);
             sum=sum+arrayList[i];
         }
+        //打印输出结果
         System.out.println("数组的和是："+sum);
     }
 }
