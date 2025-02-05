@@ -14,6 +14,7 @@ public class twoColorBall {
         while (true) {
             System.out.println("1.生成双色球号码");
             System.out.println("2.判断是否中奖");
+            System.out.println("3.退出当前系统");
             System.out.print("请选择上述功能: ");
             int choice = sc.nextInt();
             switch (choice) {
@@ -116,4 +117,3 @@ public class twoColorBall {
 
     }
 }
-
