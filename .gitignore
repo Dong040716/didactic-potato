@@ -1,0 +1,18 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Compiled class files
+*.class
+
+# Log file
+*.log
+
+# Dependency directories
+node_modules/
+vendor/
+
+# System files
+.DS_Store
+Thumbs.db
